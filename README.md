@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Scala and Machine Learning**
 
-- 🔭 I’m currently working on **react and Java Spring Boot**
+- 🔭 I’m currently working on project using **React and Java Spring Boot**
 
 - 💬 Ask me about **Angular**
 
