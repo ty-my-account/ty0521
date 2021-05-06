@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wei-Chen</h1>
 <h3 align="center">A passionate full stack developer from Taiwan!</h3>
 
-- 🌱 I’m currently learning **React and Scala**
+- 🌱 I’m currently learning **Scala and Machine Learning**
+
+- 🔭 I’m currently working on **react and Java Spring Boot**
 
 - 💬 Ask me about **Angular**
 
